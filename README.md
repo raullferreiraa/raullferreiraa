@@ -106,4 +106,4 @@ O projeto começou como um CRUD de veículos e evoluiu para a base inicial de um
 
 ---
 
-*Construindo soluções, um projeto por vez.*
+*Aprendendo, construindo e evoluindo um projeto por vez.*
