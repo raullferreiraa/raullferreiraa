@@ -25,22 +25,14 @@ O projeto une desenvolvimento web, banco de dados, lógica de permissões e iden
 
 ### Principais recursos
 
-- Cadastro e login de usuários;
-- Senhas armazenadas com hash;
-- Cadastro de projetos automotivos com ficha técnica;
-- Upload de imagens com validação;
-- Campo de história, modificações e proposta visual;
-- Feed geral com todos os projetos cadastrados;
-- Aba “Meus projetos” com a garagem pessoal do usuário logado;
-- Controle de propriedade por usuário;
-- Edição e exclusão permitidas apenas ao dono do projeto;
-- Sistema de curtidas com estado por usuário;
-- Sistema de comentários por projeto;
-- Perfil simples com nome, contador de projetos e cards dos carros;
-- Cards clicáveis no perfil;
-- Visualização detalhada em modal;
-- Filtros por modelo, suspensão e aro;
-- Interface dark premium com foco visual nos carros.
+- Autenticação de usuários com senhas protegidas por hash;
+- Cadastro de projetos automotivos com ficha técnica, história e upload de imagem;
+- Feed geral e garagem pessoal por usuário;
+- Controle de propriedade para edição e exclusão de projetos;
+- Sistema de curtidas com estado individual por usuário;
+- Comentários vinculados a projetos e usuários;
+- Perfil simples com contador de projetos e cards clicáveis;
+- Modal com visualização detalhada, filtros de busca e interface dark premium.
 
 ### Stack do projeto
 
