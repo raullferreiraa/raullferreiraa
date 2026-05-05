@@ -78,6 +78,54 @@ A ideia é unir tecnologia e cultura automotiva em uma aplicação onde cada pro
 
 ---
 
+## Painel atual
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Projeto_principal-Garagem_Digital-ff4757?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Em_desenvolvimento-3fb950?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Foco-Full_Stack-58a6ff?style=for-the-badge" />
+</p>
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🚗 Garagem Digital</h3>
+      <p>Projeto principal em desenvolvimento</p>
+      <strong>Python • Flask • MySQL</strong>
+    </td>
+    <td align="center" width="33%">
+      <h3>🧠 Aprendizado</h3>
+      <p>APIs, banco de dados, autenticação, permissões e UX</p>
+      <strong>Back-end + Front-end</strong>
+    </td>
+    <td align="center" width="33%">
+      <h3>🏁 Próxima fase</h3>
+      <p>Equipes, clubes, garagem coletiva e deploy</p>
+      <strong>Produto social automotivo</strong>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="100%">
+      <h3>🔥 Projeto em foco: Garagem Digital</h3>
+      <p>
+        Aplicação web Full Stack criada para transformar projetos automotivos em perfis digitais,
+        com usuários, feed, garagem pessoal, curtidas, comentários, seguidores, @username,
+        upload de imagens e sistema inicial de equipes.
+      </p>
+      <p>
+        <a href="https://github.com/raullferreiraa/garagem-digital">
+          Acessar repositório
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## Tecnologias e ferramentas
 
 ### Back-end e banco de dados
@@ -131,23 +179,17 @@ A ideia é unir tecnologia e cultura automotiva em uma aplicação onde cada pro
 
 ---
 
-## GitHub Stats
+## GitHub em prática
 
-<p align="center">
-  <img 
-    height="170em"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=raullferreiraa&theme=radical&hide_border=false" 
-    alt="GitHub streak stats"
-  />
-</p>
+Uso o GitHub para organizar meus projetos com uma rotina cada vez mais próxima de um fluxo profissional:
 
-<p align="center">
-  <img 
-    height="170em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=raullferreiraa&layout=compact&langs_count=8&theme=radical" 
-    alt="Linguagens mais usadas"
-  />
-</p>
+- criação de issues para planejar melhorias;
+- branches separadas por funcionalidade;
+- commits pequenos e descritivos;
+- pull requests para revisar alterações;
+- atualização de documentação conforme o projeto evolui.
+
+Meu principal projeto em evolução no momento é a **Garagem Digital**, onde venho aplicando esse fluxo na prática enquanto desenvolvo novas funcionalidades Full Stack.
 
 ---
 
