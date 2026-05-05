@@ -134,8 +134,19 @@ A ideia é unir tecnologia e cultura automotiva em uma aplicação onde cada pro
 ## GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=raullferreiraa&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raullferreiraa&layout=compact&langs_count=7&theme=radical" />
+  <img 
+    height="170em"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=raullferreiraa&theme=radical&hide_border=false" 
+    alt="GitHub streak stats"
+  />
+</p>
+
+<p align="center">
+  <img 
+    height="170em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=raullferreiraa&layout=compact&langs_count=8&theme=radical" 
+    alt="Linguagens mais usadas"
+  />
 </p>
 
 ---
