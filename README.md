@@ -89,37 +89,19 @@ A ideia é unir tecnologia e cultura automotiva em uma aplicação onde cada pro
 <table>
   <tr>
     <td align="center" width="33%">
-      <h3>🚗 Garagem Digital</h3>
-      <p>Projeto principal em desenvolvimento</p>
+      <h3>🚗 Projeto principal</h3>
+      <p>Garagem Digital</p>
       <strong>Python • Flask • MySQL</strong>
     </td>
     <td align="center" width="33%">
-      <h3>🧠 Aprendizado</h3>
+      <h3>🧠 Estudando</h3>
       <p>APIs, banco de dados, autenticação, permissões e UX</p>
       <strong>Back-end + Front-end</strong>
     </td>
     <td align="center" width="33%">
-      <h3>🏁 Próxima fase</h3>
-      <p>Equipes, clubes, garagem coletiva e deploy</p>
+      <h3>🏁 Construindo</h3>
+      <p>Perfis, seguidores, equipes, garagem coletiva e deploy</p>
       <strong>Produto social automotivo</strong>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="100%">
-      <h3>🔥 Projeto em foco: Garagem Digital</h3>
-      <p>
-        Aplicação web Full Stack criada para transformar projetos automotivos em perfis digitais,
-        com usuários, feed, garagem pessoal, curtidas, comentários, seguidores, @username,
-        upload de imagens e sistema inicial de equipes.
-      </p>
-      <p>
-        <a href="https://github.com/raullferreiraa/garagem-digital">
-          Acessar repositório
-        </a>
-      </p>
     </td>
   </tr>
 </table>
