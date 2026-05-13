@@ -167,12 +167,17 @@ Meu principal projeto em evolução no momento é a **Garagem Digital**, onde ve
 ## Métricas do GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=raullferreiraa&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raullferreiraa&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raullferreiraa&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=raullferreiraa&theme=github-dark-blue&hide_border=true" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raullferreiraa&theme=github_dark" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raullferreiraa&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raullferreiraa&theme=github_dark" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raullferreiraa&theme=github_dark&utcOffset=-3" />
 </p>
 
 ---
