@@ -1,18 +1,21 @@
-<h1 align="center">Raul Silva Ferreira</h1>
+<h1 align="center">Fala, eu sou o Raul Ferreira 👋</h1>
 
 <p align="center">
-  Estudante de Ciência da Computação • Desenvolvimento Full Stack • APIs • Banco de Dados
+  Estudante de Ciência da Computação na UVV • Desenvolvedor Full Stack em formação • Construindo projetos reais com código, banco de dados e produto.
 </p>
 
 <p align="center">
   <a href="https://raullferreiraa.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-0D1117?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio">
+    <img src="https://img.shields.io/badge/Portfólio-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/raullferreiraa" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/raullferreiraa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:raulsfr59@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/5527998129051" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
@@ -20,93 +23,193 @@
 
 ## Sobre mim
 
-Sou estudante de **Ciência da Computação na Universidade Vila Velha (UVV)**, com foco em desenvolvimento **Full Stack**, APIs REST, banco de dados e aplicações web.
+Sou estudante de **Ciência da Computação na Universidade Vila Velha (UVV)** e venho construindo uma base prática em desenvolvimento web, back-end, banco de dados, interfaces e organização de projetos.
 
-Tenho evoluído principalmente por meio de projetos práticos, trabalhando com fluxo real de desenvolvimento: **issues, branches específicas, pull requests, testes locais e evolução incremental**.
+Gosto de aprender criando aplicações reais: começo com uma ideia simples, estruturo o banco, desenvolvo o back-end, monto a interface e vou evoluindo com autenticação, permissões, upload de arquivos, experiência do usuário, refatoração e novas funcionalidades.
 
-Atualmente, meu principal projeto é a **Garagem Digital**, uma aplicação web full stack que começou como um CRUD de veículos e vem evoluindo para uma base de plataforma social automotiva.
+Atualmente, meu foco está em:
+
+- Desenvolvimento Full Stack;
+- APIs REST com Python e Flask;
+- Banco de dados relacional com MySQL;
+- JavaScript aplicado em interfaces dinâmicas;
+- Organização de código com Git, GitHub, issues, branches e pull requests;
+- Construção de projetos próprios para portfólio e evolução técnica.
 
 ---
 
 ## Projeto em destaque
 
-### Garagem Digital
+### 🚗 [Garagem Digital](https://github.com/raullferreiraa/garagem-digital)
 
-Aplicação web full stack para catalogar projetos automotivos, reunir garagens pessoais, perfis, interações sociais e equipes.
+A **Garagem Digital** é uma aplicação web Full Stack criada para catalogar, documentar e exibir projetos automotivos.
 
-**Stack principal:** Python, Flask, MySQL, JavaScript, HTML e CSS.
+O projeto começou como um CRUD de veículos e evoluiu para a base inicial de uma **plataforma social automotiva**, com usuários, perfis, feed geral, garagem pessoal, curtidas, comentários, seguidores, upload de imagens, avatar, bio, username e sistema inicial de equipes.
 
-**Principais recursos:**
+A ideia é unir tecnologia e cultura automotiva em uma aplicação onde cada projeto tenha identidade, história e presença dentro de uma comunidade.
 
-- Cadastro e login de usuários
-- Feed geral e garagem pessoal
-- Controle de propriedade por usuário
-- Upload de imagens e avatares
-- Perfis com bio, avatar e projetos
-- Sistema de seguidores
-- Curtidas e comentários
-- Modal com visualização detalhada
-- Sistema inicial de equipes
-- API REST com Flask e MySQL
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Em_desenvolvimento-3fb950?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Foco-Full_Stack-58a6ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Produto-Social_Automotivo-ff4757?style=for-the-badge" />
+</p>
+
+### Funcionalidades atuais
+
+- Cadastro e login de usuários;
+- Senhas protegidas com hash;
+- Cadastro, edição e remoção de projetos automotivos;
+- Upload de imagens com validação;
+- Feed geral de projetos;
+- Garagem pessoal por usuário;
+- Controle de propriedade por usuário;
+- Perfil com avatar, bio, @username e estatísticas;
+- Sistema de seguidores;
+- Curtidas em projetos;
+- Comentários com tempo relativo;
+- Modal detalhado com ficha técnica, história e interações;
+- Sistema inicial de equipes automotivas;
+- Garagem coletiva por equipe;
+- Interface dark premium com visual inspirado em app social.
+
+### Stack do projeto
 
 <p>
-  <a href="https://github.com/raullferreiraa/garagem-digital" target="_blank">
-    <img src="https://img.shields.io/badge/Ver_repositório-238636?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p>
+
+---
+
+## Painel atual
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🚗 Projeto principal</h3>
+      <p>Garagem Digital</p>
+      <strong>Python • Flask • MySQL</strong>
+    </td>
+    <td align="center" width="33%">
+      <h3>🧠 Estudando</h3>
+      <p>APIs, banco de dados, autenticação, permissões e UX</p>
+      <strong>Back-end + Front-end</strong>
+    </td>
+    <td align="center" width="33%">
+      <h3>🏁 Construindo</h3>
+      <p>Perfis, seguidores, equipes, garagem coletiva e interface premium</p>
+      <strong>Produto social automotivo</strong>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Tecnologias e ferramentas
+
+### Back-end e banco de dados
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### Front-end
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+### Em estudo / evolução
+
+<p>
+  <img src="https://img.shields.io/badge/React-202327?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+
+### Ferramentas
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/APIs_REST-58a6ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Banco_Relacional-3fb950?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Inglês-B1_Intermediate-3fb950?style=for-the-badge" />
+</p>
+
+---
+
+## GitHub em prática
+
+Uso o GitHub para organizar meus projetos com uma rotina cada vez mais próxima de um fluxo profissional:
+
+- criação de issues para planejar melhorias;
+- branches separadas por funcionalidade;
+- commits pequenos e descritivos;
+- pull requests para revisar alterações;
+- testes locais antes de merge;
+- evolução incremental sem quebrar funcionalidades existentes.
+
+Meu principal projeto em evolução no momento é a **Garagem Digital**, onde venho aplicando esse fluxo na prática enquanto desenvolvo novas funcionalidades Full Stack.
+
+---
+
+## Métricas do GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=raullferreiraa&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raullferreiraa&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=raullferreiraa&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+## Atualmente praticando
+
+- Estruturação de aplicações Full Stack;
+- Criação de APIs REST com Flask;
+- Integração entre front-end, back-end e banco de dados;
+- Autenticação, permissões e controle de acesso;
+- Upload e validação de arquivos;
+- Modelagem de banco de dados relacional;
+- Manipulação de DOM com JavaScript Vanilla;
+- Organização de projetos com GitHub Issues, branches e pull requests;
+- Evolução incremental de produto.
+
+---
+
+## Contato
+
+<p align="center">
+  <a href="https://raullferreiraa.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/raullferreiraa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:raulsfr59@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/5527998129051" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## Tecnologias
-
-### Frontend
-
-![HTML](https://img.shields.io/badge/HTML-0D1117?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS-0D1117?style=flat-square&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white)
-
-### Backend e Banco de Dados
-
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
-![Flask](https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
-![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1)
-
-### Ferramentas
-
-![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
-![XAMPP](https://img.shields.io/badge/XAMPP-0D1117?style=flat-square&logo=xampp&logoColor=FB7A24)
-
----
-
-## GitHub Stats
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=raullferreiraa&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats de Raul Ferreira">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raullferreiraa&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais usadas de Raul Ferreira">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=raullferreiraa&theme=github-dark-blue&hide_border=true" alt="Sequência de contribuições de Raul Ferreira">
-</p>
-
----
-
-## Forma de trabalho
-
-**Ideia → Issue pequena → Branch específica → Implementação → Teste local → Pull Request → Merge**
-
-Gosto de evoluir projetos de forma organizada, com mudanças pequenas, testáveis e bem controladas.
-
-A prioridade é construir sem pressa, mas com consistência.
-
----
-
-<p align="center">
-  <strong>Construindo projetos reais, um commit por vez.</strong>
+  <em>Construindo, quebrando, corrigindo e evoluindo — um commit por vez.</em>
 </p>
