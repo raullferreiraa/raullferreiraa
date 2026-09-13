@@ -93,13 +93,14 @@ Na nova fase, já trabalhei com autenticação JWT e refresh automático, armaze
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT">
 </p>
 
-## `> ls outros-projetos/`
+## `> cat outros-trabalhos.md`
 
 <table>
   <tr>
     <td width="58%" valign="top">
       <h3>🖥️ PostoGestão</h3>
       <p>Sistema client-server com API REST em <strong>Kotlin + Spring Boot</strong>, banco PostgreSQL e interface desktop em Lazarus. Inclui integração com ViaCEP via HTTP/JSON.</p>
+      <p><sub>Projeto acadêmico · código não publicado</sub></p>
       <p><code>Kotlin</code> <code>Spring Boot</code> <code>PostgreSQL</code> <code>Object Pascal</code></p>
     </td>
     <td width="42%" valign="top">
@@ -154,7 +155,7 @@ ideia → issue → branch → implementação → teste → pull request → ev
 
 ```text
 🚗 Cultura automotiva e projetos com identidade
-🎧 Rap, trap e letras que dizem mais de uma coisa ao mesmo tempo
+🎧 Música em diferentes estilos, letras e atmosferas
 🔴⚫ Flamengo
 💡 Ideias que começam simples e ficam interessantes conforme evoluem
 ```
