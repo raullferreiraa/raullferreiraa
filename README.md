@@ -120,13 +120,26 @@ Na nova fase, já trabalhei com autenticação JWT e refresh automático, armaze
 | **Dados & Infra** | PostgreSQL, MySQL, MariaDB, SQL, Docker, Alembic |
 | **Processo** | Git, GitHub, issues, branches, pull requests e testes locais |
 
+<p align="center"><strong>Stack principal agora</strong></p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+</p>
+
+<p align="center"><strong>Base técnica e repertório</strong></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
 ## `> git log --how-i-work`
@@ -143,12 +156,16 @@ ideia → issue → branch → implementação → teste → pull request → ev
 ## `> github --summary`
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raullferreiraa&theme=github_dark" alt="Resumo de contribuições no GitHub">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raullferreiraa&theme=github_dark&animation=draw" alt="Resumo de contribuições no GitHub">
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raullferreiraa&theme=github_dark" alt="Repositórios por linguagem">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raullferreiraa&theme=github_dark" alt="Estatísticas do GitHub">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raullferreiraa&theme=github_dark&animation=load" alt="Commits, pull requests e issues no GitHub">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raullferreiraa&theme=github_dark&utcOffset=-3&animation=load" alt="Horários de contribuição no GitHub">
+</p>
+
+<p align="center">
+  <img width="72%" src="https://streak-stats.demolab.com?user=raullferreiraa&theme=github-dark-blue&hide_border=true&locale=pt_BR" alt="Sequência e total de contribuições no GitHub">
 </p>
 
 ## `> cat fora-do-codigo.txt`
