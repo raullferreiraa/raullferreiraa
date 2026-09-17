@@ -165,7 +165,9 @@ ideia → issue → branch → implementação → teste → pull request → ev
 </p>
 
 <p align="center">
-  <img width="72%" src="https://streak-stats.demolab.com?user=raullferreiraa&theme=github-dark-blue&hide_border=true&locale=pt_BR" alt="Sequência e total de contribuições no GitHub">
+  <a href="https://github.com/raullferreiraa?tab=overview">
+    <img width="72%" src="assets/contributions-link.svg" alt="Ver contribuições e atividade de Raul no GitHub">
+  </a>
 </p>
 
 ## `> cat fora-do-codigo.txt`
