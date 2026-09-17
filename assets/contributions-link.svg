@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="190" viewBox="0 0 800 190" role="img" aria-labelledby="title desc">
+  <title id="title">Contribuições de Raul no GitHub</title>
+  <desc id="desc">Convite para ver projetos e atividade atualizados diretamente no GitHub.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#111827"/>
+      <stop offset="1" stop-color="#0b1720"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop stop-color="#7dd3fc"/>
+      <stop offset="1" stop-color="#4ade80"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="190" rx="20" fill="url(#background)"/>
+  <rect x="1" y="1" width="798" height="188" rx="19" fill="none" stroke="#30363d" stroke-width="2"/>
+  <path d="M38 40h42" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="38" y="65" font-size="14" font-weight="700" letter-spacing="2" fill="#7dd3fc">CONTRIBUIÇÕES NO GITHUB</text>
+    <text x="38" y="105" font-size="25" font-weight="700" fill="#f0f6fc">Código em constante evolução.</text>
+    <text x="38" y="136" font-size="16" fill="#a9b6c8">Projetos, commits e atividade sempre atualizados.</text>
+    <text x="38" y="166" font-size="15" font-weight="700" fill="#4ade80">VER ATIVIDADE NO PERFIL  →</text>
+  </g>
+  <path d="M655 109h78m-25-25 25 25-25 25" fill="none" stroke="url(#accent)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
