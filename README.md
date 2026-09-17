@@ -164,12 +164,6 @@ ideia → issue → branch → implementação → teste → pull request → ev
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raullferreiraa&theme=github_dark&utcOffset=-3&animation=load" alt="Horários de contribuição no GitHub">
 </p>
 
-<p align="center">
-  <a href="https://github.com/raullferreiraa?tab=overview">
-    <img width="72%" src="assets/contributions-link.svg" alt="Ver contribuições e atividade de Raul no GitHub">
-  </a>
-</p>
-
 ## `> cat fora-do-codigo.txt`
 
 ```text
